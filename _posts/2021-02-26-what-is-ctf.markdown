@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Security - Capture the Flag"
+title:  "What is CTF"
 date:   2021-02-26 20:54:23 -0700
 categories: Software Security
 ---
