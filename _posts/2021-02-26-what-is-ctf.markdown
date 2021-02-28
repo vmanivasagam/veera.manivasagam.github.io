@@ -18,8 +18,7 @@ Reference: [CTF][ctf]
 `Project Capture The Flag` that I played had a mixture of binary and web vulnerabilities that had to be both attacked and defended. Some of the tools that we built that were helpful to the game were 
 <ul><li>Availability Cheker (Web and Binary applications)</li><li>Network Packet Capturing Tools</li><li>Automatic Exploit thrower</li><li>Backup and Restoration Tool</li><li>Several CheatSheets</li></ul>
 
-Reference: [CTF Codebase][ctfCodebase]*
-* - Due to academic integrity, I am maintaining this repo as a private repository.
+Reference: [CTF Codebase][ctfCodebase] - Due to academic integrity, I am maintaining this repo as a private repository.
 
 
 
