@@ -7,7 +7,7 @@ categories: Security
 
 Here are some cheatsheets my team put together for the Capture the flag events.
 
-Reference:
+Reference:<br/>
 [AMD64Syscalls][amd64syscalls]<br/>
 [AMD64Registers][amd64registers]<br/>
 [X86Syscalls][x86syscalls]<br/>
