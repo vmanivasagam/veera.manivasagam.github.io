@@ -15,8 +15,15 @@ I learnt about the Capture the Flag competitions during my Masters degree and ou
 
 Reference: [CTF][ctf]
 
-`Project Capture The Flag` that I played had a mixture of binary and web vulnerabilities that had to be both attacked and defended. Some of the tools that we built that were helpful to the game were 
-<ul><li>Availability Cheker (Web and Binary applications)</li><li>Network Packet Capturing Tools</li><li>Automatic Exploit thrower</li><li>Backup and Restoration Tool</li><li>Several CheatSheets</li></ul>
+`Project Capture The Flag` that I played had a mixture of binary and web vulnerabilities that had to be both attacked and defended. 
+
+Some of the tools that we built that were helpful to the game were 
+<ul><li>Availability Checker (Web and Binary applications)</li><li>Network Packet Capturing Tools</li><li>Automatic Exploit thrower</li><li>Backup and Restoration Tool</li><li>Several CheatSheets</li></ul>
+
+Some of the tools that we used during the competition were
+<ul><li>gdb - GNU Debugger</li><li>Ghidra (for binary decompiler)</li><li>pwntools</li><li>Socks Proxy</li><li>Wireshark</li><li>objdump</li><li>tcpdump</li></ul>
+
+The framework that the game was built upon was `swpag_client`
 
 Reference: [CTF Codebase][ctfCodebase] - Due to academic integrity, I am maintaining this repo as a private repository.
 
