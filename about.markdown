@@ -14,5 +14,6 @@ permalink: /about/
 
 [LinkedIn][linkedin]
 [Github][github]
+
 [linkedin]: https://www.linkedin.com/in/veerappanmanivasagam/
 [github]: https://github.com/vmanivasagam
