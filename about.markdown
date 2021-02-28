@@ -12,5 +12,7 @@ permalink: /about/
 <li>DevOps</li>
 </ul> 
 
-LinkedIn: https://www.linkedin.com/in/veerappanmanivasagam/
-Github: https://github.com/vmanivasagam
+[LinkedIn][linkedin]
+[Github][github]
+[linkedin]: https://www.linkedin.com/in/veerappanmanivasagam/
+[github]: https://github.com/vmanivasagam
