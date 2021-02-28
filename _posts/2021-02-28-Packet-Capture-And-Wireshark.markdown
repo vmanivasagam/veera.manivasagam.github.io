@@ -6,5 +6,4 @@ categories: Security
 ---
 
 The best way to capture the packets is by using the tcpdump utility in linux.
-![My helpful screenshot](/assets/amd64_registers.png)
-[PacketCaptureDump][/assets/dump3.pcap]
+![PacketCaptureDump](/assets/dump3.pcap)
